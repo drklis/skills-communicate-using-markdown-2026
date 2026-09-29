@@ -4,6 +4,8 @@ Here are my planned TT lectures.
 
 ## Codespaces
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="250" align="right">
+
 What did we do last week?
 - Opened a repo
 - Opened a codespace
